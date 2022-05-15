@@ -3,7 +3,7 @@ title: Wir helfen der Ukraine
 subtitle: Spendenbörse
 image: img/ukraine_flagge.jpg
 blurb:
-  heading: Spendenbörse Borgfeld/Bremen
+  heading: Spendenbörse Borgfeld
   text: Wir sind eine Gruppe privat organisierter Menschen, die ukrainischen
     Flüchtlingen helfen wollen.
 intro:
